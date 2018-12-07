@@ -1,5 +1,3 @@
-My blog
-
 # Tondji Blog
 
 ### About me !
