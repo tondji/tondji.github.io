@@ -8,7 +8,7 @@ Before that I graduated from [AIMS- Senegal](www.aims-senegal.org/) in February 
 I am passionate about Theoritical Deep learning with applications in Visual Recognition, Reiforcement Learning and some stuffs related to Gaussian processes
 
 ## Contact
-Feel free to contact me at the following [email](tngoupeyou@aimsammi.org).
+Feel free to contact me at the following [email](mailto: tngoupeyou@aimsammi.org).
 
 ## Others links 
-To get more informations about me, feel free to visit the following pages: [LinkedIn page](www.linkedin.com/in/lionel-ngoupeyou-tondji-057a25128), [Github account](github/tondji) or [Research Gate](www.researchgate.net/profile/Lionel_Ngoupeyou_Tondji)
+To get more informations about me, feel free to visit the following pages: [LinkedIn page](https://www.linkedin.com/in/lionel-ngoupeyou-tondji-057a25128), [Github account](https://github/tondji) or [Research Gate](www.researchgate.net/profile/Lionel_Ngoupeyou_Tondji)
