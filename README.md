@@ -8,6 +8,9 @@ Before that I graduated from [AIMS- Senegal](https://www.aims-senegal.org/) in F
 I am passionate about Theoritical Deep learning with applications in Visual Recognition, Reiforcement Learning and some stuffs related to Gaussian processes.
 For more informations about Books on Machine Learning and Deep Learning visit this [page](post.md)
 
+## Tutorials
+Very soon , I will be posting some tutorials on machine learning and deep learning for dummies for those who are new in the field. Stay tuned  on my blog.
+
 ## Contact
 Feel free to contact me at the following email <tngoupeyou@aimsammi.org>.
 
