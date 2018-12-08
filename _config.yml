@@ -19,8 +19,19 @@ description: >- # this means to ignore newlines until "baseurl:"
   Ml & DL enthusiast, student @AMMI. &copy 2018 by Lionel Tondji. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+#
+# Flags below are optional
+#
+
+# Includes an icon in the footer for each username you enter
+footer-links: &copy 2018 by Lionel Tondji. 
+
 twitter_username: "lionel tondji"
 github_username:  tondji
+
+# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
+google_analytics:UA-130630854-1
 
 # Build settings
 markdown: kramdown
