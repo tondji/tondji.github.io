@@ -18,4 +18,4 @@ Feel free to contact me at the following email <tngoupeyou@aimsammi.org>.
 To get more informations about me, feel free to visit the following pages: [LinkedIn page](https://www.linkedin.com/in/lionel-ngoupeyou-tondji-057a25128), [Github account](https://github.com/tondji/) or [Research Gate](https://www.researchgate.net/profile/Lionel_Ngoupeyou_Tondji).
 
 ## Social Networks
-Feel free to follow me [@ltondji](https://twitter.com/ltondji).
+Feel free to follow me on Twitter [@ltondji](https://twitter.com/ltondji).
