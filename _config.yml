@@ -25,7 +25,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #
 
 # Includes an icon in the footer for each username you enter
-footer-links: &copy 2018 by Lionel Tondji. 
+#footer-links: &copy 2018 by Lionel Tondji. 
 
 twitter_username: "lionel tondji"
 github_username:  tondji
