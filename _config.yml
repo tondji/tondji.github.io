@@ -16,7 +16,7 @@
 title: Welcome to my Blog
 email: ltondji@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Ml & DL enthusiast, student [@AMMI](http://aims-ammi.com/). &copy 2018 by Lionel Tondji 
+  Ml & DL enthusiast, student @[AMMI](http://aims-ammi.com/). &copy 2018 by Lionel Tondji 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: "lionel tondji"
