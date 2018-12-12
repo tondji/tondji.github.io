@@ -9,7 +9,9 @@ The book is not intended to cover advanced machine learning techniques because t
 * [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/people/cmbishop/#!prml-book) by [Christopher Bishop](https://twitter.com/ChrisBishopMSFT).
 * Machine Learning: A Probabilistic Perspective by **Kevin P. Murphy.**
 
+---
 # Deep Learning Courses
+---
 
 * You can find here [slides](https://fleuret.org/ammi-2018/) and a virtual machine for an introductory course to deep learning given in the African Master’s of Machine Intelligence at AIMS by [François Fleuret](https://www.idiap.ch/~fleuret/). This course covers the main deep learning tools and theoretical results, with examples in the PyTorch framework.
-* Mini Course in [Deep Learning with PyTorch](https://github.com/Atcold/pytorch-Deep-Learning-Minicourse) for AIMS given by **Alfredo Canziani and Ritchie**
+* Mini Course in [Deep Learning with PyTorch](https://github.com/Atcold/pytorch-Deep-Learning-Minicourse) for AIMS given by **Alfredo Canziani and Ritchie**.
