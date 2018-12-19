@@ -8,6 +8,8 @@ If you are beginner in Machine Learning and you want to get a solid mathematical
 The book is not intended to cover advanced machine learning techniques because there are already plenty of books doing this. Instead, is to provide the necessary mathematical skills to read those other books.
 * [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/people/cmbishop/#!prml-book) by [Christopher Bishop](https://twitter.com/ChrisBishopMSFT).
 * Machine Learning: A Probabilistic Perspective by **Kevin P. Murphy.**
+* [Understanding Machine Learning From Theory to Algorithms](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=2ahUKEwio5s3M86zfAhXqxoUKHXm7A_oQFjAAegQIAxAC&url=https%3A%2F%2Fwww.cs.huji.ac.il%2F~shais%2FUnderstandingMachineLearning%2Funderstanding-machine-learning-theory-algorithms.pdf&usg=AOvVaw3w_XtL2On_1VFSyDmcU0Qn) by **Shai Shalev-Shwartz** and **Shai Ben-David.**
+
 
 ---
 # Deep Learning Courses
