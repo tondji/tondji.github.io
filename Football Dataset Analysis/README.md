@@ -3,6 +3,24 @@
 ## What is this project?
 Football Dataset Analysis is a group project meant to study, analyse and extract information from the [kaggle football dataset](https://www.kaggle.com/secareanualin/football-events/home).
 
+## Description
+## Context
+
+Most publicly available football (soccer) statistics are limited to aggregated data such as Goals, Shots, Fouls, Cards. When assessing performance or building predictive models, this simple aggregation, without any context, can be misleading. For example, a team that produced 10 shots on target from long range has a lower chance of scoring than a club that produced the same amount of shots from inside the box. However, metrics derived from this simple count of shots will similarly asses the two teams.
+
+A football game generates much more events and it is very important and interesting to take into account the context in which those events were generated. This dataset should keep sports analytics enthusiasts awake for long hours as the number of questions that can be asked is huge.
+
+## Content
+
+This dataset is a result of a very tiresome effort of webscraping and integrating different data sources. The central element is the text commentary. All the events were derived by reverse engineering the text commentary, using regex. Using this, I was able to derive 11 types of events, as well as the main player and secondary player involved in those events and many other statistics. In case I've missed extracting some useful information, you are gladly invited to do so and share your findings. The dataset provides a granular view of 9,074 games, totaling 941,009 events from the biggest 5 European football (soccer) leagues: England, Spain, Germany, Italy, France from 2011/2012 season to 2016/2017 season as of 25.01.2017. There are games that have been played during these seasons for which I could not collect detailed data. Overall, over 90% of the played games during these seasons have event data.
+
+The [dataset](https://www.kaggle.com/secareanualin/football-events/home) is organized in 3 files:
+
+    * events.csv contains event data about each game. Text commentary was scraped from: bbc.com, espn.com and onefootball.com
+    * ginf.csv - contains metadata and market odds about each game. odds were collected from oddsportal.com
+    * dictionary.txt contains a dictionary with the textual description of each categorical variable coded with integers
+
+
 
 ### What does Kaggle mean?
 Kaggle, according to [Wikipedia](https://en.wikipedia.org/wiki/Kaggle) "is an online community of data scientists and machine learners, owned by Google, Inc that allows users to find and publish data sets, explore and build models in a web-based data-science environment, work with other data scientists and machine learning engineers, and enter competitions to solve data science challenges."
