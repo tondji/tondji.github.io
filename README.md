@@ -7,7 +7,7 @@ I want to understand things clearly, and explain them well.
 ---
 
 
-### About me !
+### About me !                                                                                        ###### CV
 
 
 I am currently undergoing the African Masters in Machine Intelligence [(AMMI)](http://aims-ammi.com/) by AIMS in patnership with Facebook and Google based in Kigali, Rwanda.
