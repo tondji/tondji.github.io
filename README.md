@@ -1,5 +1,5 @@
-# Tondji Blog
-
+<!--# Tondji Blog-->
+I want to understand things clearly, and explain them well.
 ---
 
 
