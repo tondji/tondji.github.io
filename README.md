@@ -16,8 +16,14 @@ I am passionate about Theoritical Deep learning with applications in Visual Reco
 For more informations about Books on Machine Learning and Deep Learning visit this [learning-resources page](post.md).
 You can find my [CV](https://github.com/tondji/tondji.github.io/blob/master/My-CV/CV_LIONEL.pdf) Here.
 
-## Tutorials
+## Machine Learning Tutorials
 Very soon , I will be posting some tutorials on machine learning and deep learning for dummies for those who are new in the field. Stay tuned  on my blog. But for now you can have a look at samples of some codes [here](https://github.com/tondji/tondji.github.io/tree/master/Tutorials-Assignments) that I did for my assignments at AMMI for the first semester. That part is most about Foundations of Machine Learning.
+
+## Deep Learning Tutorials
+For deep learning Tutorials, you can have a look at sample of my deep learning code that I did for my coursework during the first semester [here](https://github.com/tondji/tondji.github.io/tree/master/Deep-Learning-Codes)
+
+## Reinforcement Learning Tutorials
+For deep learning Tutorials, you can have a look at sample of my reinforcement learning basic code that I did for Q-Learning Algorithm [here](Reinforcement-Learning/Reinforcement+Learning+-Intro-to-Q-Learning.html)
 
 ## Contact
 Feel free to contact me at the following email <tngoupeyou@aimsammi.org>.
