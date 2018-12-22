@@ -17,7 +17,7 @@ For more informations about Books on Machine Learning and Deep Learning visit th
 You can find my [CV](https://github.com/tondji/tondji.github.io/blob/master/My-CV/CV_LIONEL.pdf) Here.
 
 ## Tutorials
-Very soon , I will be posting some tutorials on machine learning and deep learning for dummies for those who are new in the field. Stay tuned  on my blog.
+Very soon , I will be posting some tutorials on machine learning and deep learning for dummies for those who are new in the field. Stay tuned  on my blog. But for now you can have a look at samples of some codes [here](https://github.com/tondji/tondji.github.io/tree/master/Tutorials-Assignments) that I did for my assignments at AMMI for the first semester. That part is most about Foundations of Machine Learning.
 
 ## Contact
 Feel free to contact me at the following email <tngoupeyou@aimsammi.org>.
