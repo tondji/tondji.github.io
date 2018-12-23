@@ -12,7 +12,7 @@
 
 I am currently undergoing the African Masters in Machine Intelligence [(AMMI)](http://aims-ammi.com/) by AIMS in patnership with Facebook and Google based in Kigali, Rwanda.
 Before that I graduated from [AIMS- Senegal](https://www.aims-senegal.org/) in February 2018 with a Master degree in Mathematical science where my Master Thesis was on [*Web Recommendation systems for jobs seekers and recruiters*](https://scholar.google.com/citations?user=NEBFZl8AAAAJ&hl=en).
-I am passionate about Theoritical Deep learning with applications in Visual Recognition, Reiforcement Learning and some stuffs related to Gaussian processes.
+I am passionate about Theoritical Deep learning with applications in Visual Recognition, Reinforcement Learning and some stuffs related to Gaussian processes.
 For more informations about Books on Machine Learning and Deep Learning visit this [learning-resources page](post.md).
 You can find my [CV](https://github.com/tondji/tondji.github.io/blob/master/My-CV/CV_LIONEL.pdf) Here.
 
