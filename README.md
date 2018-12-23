@@ -20,7 +20,9 @@ You can find my [CV](https://github.com/tondji/tondji.github.io/blob/master/My-C
 Very soon , I will be posting some tutorials on machine learning and deep learning for dummies for those who are new in the field. Stay tuned  on my blog. But for now you can have a look at samples of some codes [here](https://github.com/tondji/tondji.github.io/tree/master/Tutorials-Assignments) that I did for my assignments at AMMI for the first semester. That part is most about Foundations of Machine Learning.
 
 ## Deep Learning Tutorials
-For deep learning Tutorials, you can have a look at sample of my deep learning code that I did for my coursework during the first semester [here](https://github.com/tondji/tondji.github.io/tree/master/Deep-Learning-Codes)
+For deep learning Tutorials, you can have a look at sample of my deep learning code that I did for my coursework during the first semester.In this part we have for the moment two tutorials on :
+* Neural-networks where we build basic Convolutionnal neural networks. The code can be found [here](Deep-Learning-Codes/Convolutionnal-neural-networks/CNN_Programming_part_assignment_NGOUPEYOU_TONDJI_LIONEL.md) 
+* Auto-encoder where we build Convolutional autoencoder with fashion MNIST data set images. The code can be found [here](Deep-Learning-Codes/Convolutional_autoencoder_with_fashion_images_NGOUPEYOU_TONDJI_LIONEL/Convolutional_autoencoder_with_fashion_images_NGOUPEYOU_TONDJI_LIONEL.html)
 
 ## Reinforcement Learning Tutorials
 For deep learning Tutorials, you can have a look at sample of my reinforcement learning basic code that I did for Q-Learning Algorithm [here](Reinforcement-Learning/Reinforcement+Learning+-Intro-to-Q-Learning.html)
