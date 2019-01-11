@@ -5,7 +5,8 @@ title: Contact
 
 #### Address - affiliation:
 
-African Master in Machine Intelligence (AIMS-AMMI)
+
+<a href = "https://aimsammi.org/">African Master in Machine Intelligence (AIMS-AMMI)</a>
 
 Machine Intelligence Department
 
