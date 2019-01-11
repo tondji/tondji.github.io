@@ -3,14 +3,28 @@ layout: page
 title: 
 ---
 
-<p>
-	<img src="/assets/img/lionel.jpg" alt="Smiley face" width="200" align="left"/> 
-	
-I am a visiting scholar at <a href = "http://neuroscience.berkeley.edu/">Helen Wills Neuroscience Institute</a>, at the University of California, Berkeley. My research uses computational techniques to study human cognition. I am particularly interested on how we detect regularities and statistical rules in sensory stimuli, and how we use those to form predictions about future events. 
-</p>
-In the past, I have been investigating the neural and computational mechanisms underlying associative learning in humans and the neural mechanisms underlying the formation of auditory predictions in coma patients.
+</td>
 
-To study human cognition, I am using imaging (EEG, MEG, ECoG) and psychophysiological techniques (skin conductance, <a href = "http://onlinelibrary.wiley.com/doi/10.1111/psyp.12801/full">pupil size</a>, <a href = "http://onlinelibrary.wiley.com/doi/10.1111/psyp.12775/full">startle responses</a>), in combination with <a href = "http://www.sciencedirect.com/science/article/pii/S0031320311001440">machine learning</a> and <a href = "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006243">modeling approaches</a>. My goal is to characterise the neural and computational mechanisms which allow healthy individuals to perceive their environment and ultimately, to examine how these are disrupted in patients with disorders of consciousness.
+        <td style="width=20%;vertical-align: top;">
+        <!--img title="Istanbul, 2013", style="max-width:200px;" alt="That's me." src="colourPortrait.jpg"></td-->
+        <!--img title="Istanbul, 2013", style="width:100%;" alt="That's me." src="colourPortrait.jpg"-->
+        <img title="Istanbul, 2013", src="/assets/img/lionel.jpg" alt="Smiley face" style="width:100%;" align="left"/>
+
+	<br>
+	<br>
+
+	<span style="font-weight:bold">
+		Ml & DL enthusiast
+	</span>
+	<br>
+
+	Python and Maths Lover 
+	<br>
+
+	student @AMMI
+	<br>
+</td>
+
 
 I am currently undergoing the African Masters in Machine Intelligence [(AMMI)](http://aims-ammi.com/) by AIMS in patnership with Facebook and Google based in Kigali, Rwanda.
 Before that I graduated from [AIMS- Senegal](https://www.aims-senegal.org/) in February 2018 with a Master degree in Mathematical science where my Master Thesis was on [*Web Recommendation systems for jobs seekers and recruiters*](https://scholar.google.com/citations?user=NEBFZl8AAAAJ&hl=en) and it is available on Google scholar.
