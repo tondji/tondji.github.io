@@ -3,26 +3,30 @@ layout: page
 title: Material
 ---
 
-Bellow you can find scripts for running experiments or analyzing (intracranial) EEG data, and other shared material.
+Bellow you can find scripts for running experiments or analyzing data, and other shared material.
 
-#### Neuroscience-related material:
-* [Tutorials for maching learning on EEG data in python](#machine-learning-for-eeg-in-python)
-* [Auditory oddball paradigm in python](#auditory-oddball-in-python)
-* [Scripts to import neuralynx data](#importing-neuralynx-data)
-* [Scripts for analysing intracranial EEG data](#analysis-of-intracranial-eeg-data)
-* [R functions to plot EEG data](#r-functions-to-plot-eeg-data)
+---
+# Machine Learning Courses
+---
 
-### Machine learning for EEG in python
-[Here](https://github.com/aath0/PIP_SummerSchoolML) you can find a tutorial for applying maching learning techniques on EEG data, based on [MNE-Python](https://github.com/mne-tools/mne-python).
+If you are beginner in Machine Learning and you want to get a solid mathematical background in order to do Machine learning, this is a list of very good books that I used myself : 
+* [Mathematics for Machine Learning](https://mml-book.com). by [Marc Peter Deisenroth](https://twitter.com/mpd37), [A Aldo Faisal](https://twitter.com/analogaldo), and [Cheng Soon Ong](https://twitter.com/ChengSoonOng).
+The book is not intended to cover advanced machine learning techniques because there are already plenty of books doing this. Instead, is to provide the necessary mathematical skills to read those other books.
+* [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/people/cmbishop/#!prml-book) by [Christopher Bishop](https://twitter.com/ChrisBishopMSFT).
+* Machine Learning: A Probabilistic Perspective by **Kevin P. Murphy.**
+* [Understanding Machine Learning From Theory to Algorithms](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=2ahUKEwio5s3M86zfAhXqxoUKHXm7A_oQFjAAegQIAxAC&url=https%3A%2F%2Fwww.cs.huji.ac.il%2F~shais%2FUnderstandingMachineLearning%2Funderstanding-machine-learning-theory-algorithms.pdf&usg=AOvVaw3w_XtL2On_1VFSyDmcU0Qn) by **Shai Shalev-Shwartz** and **Shai Ben-David.**
 
-### Auditory oddball in python
-[Scripts](https://github.com/aath0/AuditoryOddball) to create pure tones in python and to run an auditory oddball paradigm, using pygame.
 
-### Importing Neuralynx data
-Wrapper functions to import Neuralynx data in fieldtrip and transform them to .fif format, which can be then read in MNE, python. Code can be found [here](https://github.com/aath0/EEG_Neuralynx2Fieldtrip2MNE)
+---
+# Deep Learning Courses
+---
 
-### Analysis of intracranial EEG data
-[Scripts](https://github.com/aath0/iEEG) for analyzing iEEG/ECoG data with fieldtrip.
+* You can find here [slides](https://fleuret.org/ammi-2018/) and a virtual machine for an introductory course to deep learning given in the African Master’s of Machine Intelligence at AIMS by [François Fleuret](https://www.idiap.ch/~fleuret/). This course covers the main deep learning tools and theoretical results, with examples in the PyTorch framework.
+* Mini Course in [Deep Learning with PyTorch](https://github.com/Atcold/pytorch-Deep-Learning-Minicourse) for AIMS given by **Alfredo Canziani and Ritchie**.
 
-### R functions to plot EEG data
-Some [functions](https://github.com/aath0/REEG) to import fieldtrip EEG data in R and plot event related responses.
+
+---
+# Reinforcement Learning
+---
+
+* You can find here videos for the Reinforcement Learning Course (10 lectures) given by **David Silver** at University College London and here [slides](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) for the same lecture.
