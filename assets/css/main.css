@@ -500,3 +500,25 @@ th, td {
 .fa-rss-square:hover {
 	color: #ff6600;
 }
+
+/*
+ Lionel Code
+*/
+@font-face {
+    font-family: 'Academicons';
+    src:url('../fonts/academicons.eot?v=1.8.6');
+    src:url('../fonts/academicons.eot?v=1.8.6') format('embedded-opentype'),
+        url('../fonts/academicons.ttf?v=1.8.6') format('truetype'),
+        url('../fonts/academicons.woff?v=1.8.6') format('woff'),
+        url('../fonts/academicons.svg?v=1.8.6#academicons') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.ai-google-scholar:before {
+  content: "\e9d4";
+}
+
+.ai-researchgate:before {
+  content: "\e95e";
+}

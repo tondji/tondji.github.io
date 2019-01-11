@@ -9,7 +9,7 @@ title:
 	<br>
 	
         <p>
-	<img src="/assets/img/lionel.jpg" alt="Smiley face" style="width:100%;" align="left"/> 
+	<img src="/assets/img/lionel.jpg" alt="Smiley face" style="width:200;" align="left"/> 
 	</p>
 	<br>
 

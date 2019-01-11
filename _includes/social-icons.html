@@ -3,6 +3,10 @@
   {% if first_char == '/' %}
     <a href="{{ site.baseurl }}{{ item.link }}"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>
   {% else %}
-    <a href="{{ item.link }}" target="_blank"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>
+  	{% if item.icon == 'researchgate' %}	
+  		<a href="{{ item.link }}" target="_blank"><i class="ai ai-{{ item.icon }}" aria-hidden="true"></i></a>
+  	{% else %}
+    		<a href="{{ item.link }}" target="_blank"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>
+    	{% endif %}
   {% endif %}
 {% endfor %}
