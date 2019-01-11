@@ -29,7 +29,7 @@ title:
 I am currently undergoing the African Masters in Machine Intelligence [(AMMI)](http://aims-ammi.com/) by AIMS in patnership with Facebook and Google based in Kigali, Rwanda.
 Before that I graduated from [AIMS- Senegal](https://www.aims-senegal.org/) in February 2018 with a Master degree in Mathematical science where my Master Thesis was on [*Web Recommendation systems for jobs seekers and recruiters*](https://scholar.google.com/citations?user=NEBFZl8AAAAJ&hl=en) and it is available on Google scholar.
 I am passionate about Theoretical Deep learning with applications in Visual Recognition, Reinforcement Learning and some stuffs related to Gaussian processes.
-For more informations about Books on Machine Learning and Deep Learning visit this [learning-resources page](post.md).
+For more informations about Books on Machine Learning and Deep Learning visit this [learning-resources page](open.md).
 
 
 ## Machine Learning Tutorials
@@ -45,7 +45,7 @@ For additional information please check:
 
 * my publications on <a href = "https://scholar.google.fr/citations?view_op=list_works&hl=fr&user=NEBFZl8AAAAJ">Google scholar</a>
 			
-* some of my badly commented code on <a href = "https://github.com/tondji">Github</a>
+* some of my badly commented code on <a href = "https://github.com/tondji/tondji.github.io/">Github</a>
 
 
 
