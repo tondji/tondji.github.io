@@ -1,0 +1,34 @@
+# Change to true for Disqus comments
+disqus:
+  comments: false
+  disqus_shortname: 'https-tondji-github-io'
+
+#UA-103680525-1
+google-ID: 'UA-130630854-1'
+
+menu:
+- {name: 'Research', path: 'https://tondji.github.io/menu', url: 'research.html'}
+- {name: 'Publications', path: 'https://scholar.google.fr/citations?view_op=list_works&hl=fr&user=NEBFZl8AAAAJ', url: ''}
+- {name: 'CV', path: 'https://github.com/tondji/tondji.github.io/raw/master/menu/CV_LIONEL.pdf', url: ''}
+- {name: 'Material', path: 'https://tondji.github.io/menu', url: 'open.html'}
+- {name: 'News', path: 'https://tondji.github.io/menu', url: 'news.html'}
+- {name: 'Contact', path: 'https://tondji.github.io/menu', url: 'contact.html'}
+
+# Available social icons are powered by Font Awesome, so you can use any icon that they offer
+social:
+- {icon: 'github', link: 'https://www.github.com/tondji'}
+- {icon: 'twitter', link: 'https://twitter.com/ltondji'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/lionel-ngoupeyou-tondji-057a25128/'}
+- {icon: 'envelope', link: 'mailto:ltondji@gmail.com'}
+
+
+# Customize site text
+pagination:
+  next_page: 'Newer'
+  previous_page: 'Older'
+
+sharing_button_prompt: 'Feel free to share!'
+
+related_posts: 'You may also enjoy:'
+
+post_date_prefix: 'Written on'
