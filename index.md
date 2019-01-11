@@ -4,9 +4,10 @@ title:
 ---
 
 
-</td>
+<td style="width=20%;vertical-align: top;">
 
-        <td style="width=20%;vertical-align: top;">
+
+
         <!--img title="Istanbul, 2013", style="max-width:200px;" alt="That's me." src="colourPortrait.jpg"></td-->
         <!--img title="Istanbul, 2013", style="width:100%;" alt="That's me." src="colourPortrait.jpg"-->
         <img title="Istanbul, 2013", src="/assets/img/lionel.jpg" alt="Smiley face" style="width:100%;" align="left"/>
