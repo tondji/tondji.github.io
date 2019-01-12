@@ -45,7 +45,7 @@ For additional information please check:
 
 * my publications on <a href = "https://scholar.google.fr/citations?view_op=list_works&hl=fr&user=NEBFZl8AAAAJ">Google scholar</a>
 			
-* some of my badly commented code on <a href = "https://github.com/tondji/tondji.github.io/">Github</a>
+* some of my commented code on <a href = "https://github.com/tondji/tondji.github.io/">Github</a>
 
 
 
