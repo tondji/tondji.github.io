@@ -29,4 +29,4 @@ The book is not intended to cover advanced machine learning techniques because t
 # Reinforcement Learning
 ---
 
-* You can find here [[slides]((http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)),[videos]((https://www.youtube.com/watch?v=2pWv7GOvuf0))] for the Reinforcement Learning Course (10 lectures) given by **David Silver** at University College London.
+* You can find here [[slides](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html),[videos](https://www.youtube.com/watch?v=2pWv7GOvuf0)] for the Reinforcement Learning Course (10 lectures) given by **David Silver** at University College London.

@@ -8,7 +8,7 @@ google-ID: 'UA-130630854-1'
 
 menu:
 - {name: 'Research', path: 'https://tondji.github.io/menu', url: 'research.html'}
-- {name: 'Publications', path: 'https://scholar.google.fr/citations?view_op=list_works&hl=fr&user=NEBFZl8AAAAJ', url: ''}
+- {name: 'Publications', path: 'https://scholar.google.fr/citations?view_op=list_works&hl=fr&user=NEBFZl8AAAAJ', url: 'https://scholar.google.fr/citations?view_op=list_works&hl=fr&user=NEBFZl8AAAAJ'}
 - {name: 'CV', path: 'https://github.com/tondji/tondji.github.io/raw/master/menu/CV_LIONEL.pdf', url: ''}
 - {name: 'Material', path: 'https://tondji.github.io/menu', url: 'open.html'}
 - {name: 'News', path: 'https://tondji.github.io/menu', url: 'news.html'}
