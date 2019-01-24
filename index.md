@@ -36,13 +36,13 @@ For more informations about Books on Machine Learning and Deep Learning visit th
 
 
 ## Machine Learning Tutorials
-Very soon , I will be posting some tutorials on machine learning and deep learning for dummies for those who are new in the field. Stay tuned  on my blog. But for now you can have a look at samples of some codes [here](https://github.com/tondji/tondji.github.io/tree/master/Tutorials-Assignments) that I did for my assignments at AMMI for the first semester. That part is most about Foundations of Machine Learning.
+Very soon , I will be posting some tutorials on machine learning and deep learning for dummies for those who are new in the field. Stay tuned  on my blog. But for now you can have a look at samples of some codes [here](https://github.com/tondji/tondji.github.io/tree/master/Machine-Learning-Codes) that I did for my assignments at AMMI for the first semester. That part is most about Foundations of Machine Learning.
 
 ## Deep Learning Tutorials
 For deep learning Tutorials, you can have a look at sample of my deep learning code that I did for my coursework during the first semester [here](https://github.com/tondji/tondji.github.io/tree/master/Deep-Learning-Codes)
 
 ## Reinforcement Learning Tutorials
-For deep learning Tutorials, you can have a look at sample of my reinforcement learning basic code that I did for Q-Learning Algorithm [here](Reinforcement-Learning/Reinforcement+Learning+-Intro-to-Q-Learning.html)
+For deep learning Tutorials, you can have a look at sample of my reinforcement learning basic code that I did for Q-Learning Algorithm [here](Reinforcement-Learning/Reinforcement+Learning+-Intro-to-Q-Learning.html) or for more codes you can have a look at samples of some codes [here](https://github.com/tondji/tondji.github.io/tree/master/Reinforcement-Learning)
 
 For additional information please check:
 
