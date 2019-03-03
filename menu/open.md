@@ -44,7 +44,7 @@ The book is not intended to cover advanced machine learning techniques because t
 ---
 
 This course covers basic concepts in machine learning in high dimension, and the importance of regularization. We study in detail high-dimensional linear models regularized by the Euclidean norm, including ridge regression, ridge logistic regression and support vector machines. We then show how positive definite kernels allows to transform these linear models into rich nonlinear models, usable even for non-vectorial data such as strings and graphs, and convenient for integrating heterogeneous data.
-* You can find here [slides + Practicals + data](http://members.cbio.mines-paristech.fr/~jvert/svn/kernelcourse/course/2019ammi/index.html)all the necessary materials slides, practical and data for the data challenge for the Kernel Methods for Machine Learning Course given by **Jean-Philippe Vert** from the Centre for Computational Biology at Mines ParisTech and Google Brain.
+* You can find here [slides + Practicals + data](http://members.cbio.mines-paristech.fr/~jvert/svn/kernelcourse/course/2019ammi/index.html) all the necessary materials slides, practical and data for the data challenge for the Kernel Methods for Machine Learning Course given by **Jean-Philippe Vert** from the Centre for Computational Biology at Mines ParisTech and Google Brain.
 
 
 ---

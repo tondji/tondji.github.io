@@ -8,7 +8,7 @@ google-ID: 'UA-130630854-1'
 
 menu:
 - {name: 'Research', path: 'https://tondji.github.io/menu', url: 'research.html'}
-- {name: 'Publications', path: 'https://scholar.google.fr/citations?view_op=list_works&hl=fr&user=NEBFZl8AAAAJ', url: 'https://scholar.google.fr/citations?view_op=list_works&hl=fr&user=NEBFZl8AAAAJ'}
+- {name: 'Publications', path: 'https://scholar.google.com/citations?user=4vk9lasAAAAJ&hl=en', url: 'https://scholar.google.com/citations?user=4vk9lasAAAAJ&hl=en'}
 - {name: 'CV', path: 'https://github.com/tondji/tondji.github.io/raw/master/menu/CV_LIONEL.pdf', url: ''}
 - {name: 'Material', path: 'https://tondji.github.io/menu', url: 'open.html'}
 - {name: 'News', path: 'https://tondji.github.io/menu', url: 'news.html'}
@@ -34,3 +34,6 @@ sharing_button_prompt: 'Feel free to share!'
 related_posts: 'You may also enjoy:'
 
 post_date_prefix: 'Written on'
+
+
+#https://scholar.google.fr/citations?view_op=list_works&hl=fr&user=NEBFZl8AAAAJ
