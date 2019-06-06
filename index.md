@@ -42,7 +42,7 @@ Very soon , I will be posting some tutorials on machine learning and deep learni
 For deep learning Tutorials, you can have a look at sample of my deep learning code that I did for my coursework during the first semester [here](https://github.com/tondji/tondji.github.io/tree/master/Deep-Learning-Codes)
 
 ## Reinforcement Learning Tutorials
-For deep learning Tutorials, you can have a look at sample of my reinforcement learning basic code that I did for Q-Learning Algorithm [here](Reinforcement-Learning/Reinforcement+Learning+-Intro-to-Q-Learning.html) or for more codes you can have a look at samples of some codes [here](https://github.com/tondji/tondji.github.io/tree/master/Reinforcement-Learning)
+For reinforcement learning Tutorials, you can have a look at sample of my reinforcement learning basic code that I did for Q-Learning Algorithm [here](Reinforcement-Learning/Reinforcement+Learning+-Intro-to-Q-Learning.html) or for more codes you can have a look at samples of some codes [here](https://github.com/tondji/tondji.github.io/tree/master/Reinforcement-Learning)
 
 ## Kernel Methods for Machine Learning Tutorials
 This course covers basic concepts in machine learning in high dimension, and the importance of regularization. We study in detail high-dimensional linear models regularized by the Euclidean norm, including ridge regression, ridge logistic regression and support vector machines. We then show how positive definite kernels allows to transform these linear models into rich nonlinear models, usable even for non-vectorial data such as strings and graphs, and convenient for integrating heterogeneous data.
@@ -57,6 +57,16 @@ For optimization Tutorials, you can have a look at sample of my code that I did 
 ## Probabilistic Graphical Models Tutorials
  This course provides a unifying introduction to probabilistic modelling through the framework of graphical models, together with their associated learning and inference algorithms. 
 For  Probabilistic Graphical Models Tutorials, you can have a look at sample of my code that I did for my coursework during the second semester [here](https://github.com/tondji/tondji.github.io/tree/master/Probabilistic-Graphical-Models-Codes)
+
+
+Others amazing courses that we have done at AMMI include :
+
+* Natural Language Processing with amazing Lecturers **Armand Joulin**(FAIR Paris), **Edouard Grave**(FAIR Paris), **Kyunghyun Cho**(FAIR New-York and NYU), **Antoine Bordes**(Director FAIR Paris) 
+* Advanced Topics in Machine Learning (Meta Learning, Automatic Differentiation) with amazing Lecturers **HUGO LAROCHELLE** (Director Google Brain Montreal), **BART VAN MERRIENBOE** (PhD Student Mila)
+* Generative Models and Convolutional Neural Networks with amazing Lecturers **Mario Lucic**(Google Brain Zurich), **Laurens van der Maaten** (FAIR New-York and DenseNet Author Paper)
+* Learning Theory with amazing Lecturer **Nicolas Usunier** (FAIR Paris)
+* Computer vision with amazing Lecturers **Ifeoma Nwogu** (Rochester Institute of Technology), **Georgia Gkioxari** (FAIR New-York and Mask R-CNN Author Paper), **Lucio Dery**(FAIR New-York), **Timnit Gebru** (Google Brain)
+* Social and ethical aspects of Machine Learning with amazing Lecturers **Richard Zemel**(Director of Vector Institute) and **Toniann Pitassi**(Vector Institute)
 
 For additional information please check:
 
