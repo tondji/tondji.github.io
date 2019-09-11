@@ -21,7 +21,7 @@
     fill: black;
 }
 
-.Momentum {
+.SGDMomentum {
     fill: blue;
 }
 
@@ -132,9 +132,9 @@ function_g.selectAll("path")
 /*
  * Set up buttons
  */
-var draw_bool = {"SGD" : true, "Momentum" : true, "RMSProp" : true, "Adam" : true};
+var draw_bool = {"SGD" : true, "SGDMomentum" : true, "RMSProp" : true, "Adam" : true};
 
-var buttons = ["SGD", "Momentum", "RMSProp", "Adam"];
+var buttons = ["SGD", "SGDMomentum", "RMSProp", "Adam"];
 
 menu_g.append("rect")
       .attr("x", 0)
@@ -185,7 +185,7 @@ function button_press() {
 
 /*
  * Set up optimization/gradient descent functions.
- * SGD, Momentum, RMSProp, Adam.
+ * SGD, SGDMomentum, RMSProp, Adam.
  */
 
 function get_sgd_path(x0, y0, learning_rate, num_steps) {
@@ -315,7 +315,7 @@ function minimize(x0,y0) {
         var sgd_data = get_sgd_path(x0, y0, 2e-2, 500);
         draw_path(sgd_data, "sgd");
     }
-    if (draw_bool.Momentum) {
+    if (draw_bool.SGDMomentum) {
         var momentum_data = get_momentum_path(x0, y0, 1e-2, 200, 0.8);
         draw_path(momentum_data, "momentum");
     }
