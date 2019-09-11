@@ -49,7 +49,7 @@ For kernel methods Tutorials, you can have a look at sample of my code that I di
 Many estimation problems in statistical learning are formulated as optimization problems. These formulations allowed a separation between the analysis of the estimator's performance and the development of problem-solving algorithms. Faced with large volumes of data, such separation is no longer effective and analysis must combine statistics and optimization. In this course, the classic statistical results on M-estimation and convex optimization will be presented in a unified way, showing the links between statistics and optimization. Emphasis will be placed on non-asymptotic analysis of stochastic approximation and stochastic gradient.
 
 Attention, the purpose of this course is to understand how algorithms are analyzed and will therefore be more accessible on the evidence.
-For optimization Tutorials, you can have a look at sample of my code that I did for my coursework during the second semester [here](https://github.com/tondji/tondji.github.io/tree/master/Optimization-for-Machine-Learning-Codes)
+For optimization Tutorials, you can have a look at sample of my code that I did for my coursework during the second semester [here](https://github.com/tondji/tondji.github.io/tree/master/Optimization-for-Machine-Learning-Codes).
 
 ## Probabilistic Graphical Models Tutorials
  This course provides a unifying introduction to probabilistic modelling through the framework of graphical models, together with their associated learning and inference algorithms. 
