@@ -8,9 +8,6 @@ title: News
 Now you can have very nice Optimization Algorithms visualization and have a sense of what their convergence look like at this [link](https://tondji.github.io/Optimization-for-Machine-Learning-Codes/Visualization.html).
 
 
-
-
-
 <!--- No news for now ! -->
 
 <!--- https://github.com/tondji/tondji.github.io/tree/master/Optimization-for-Machine-Learning-Codes/Visualization.html! -->
