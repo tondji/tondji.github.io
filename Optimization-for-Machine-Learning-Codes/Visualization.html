@@ -17,6 +17,10 @@
     stroke: green;
 }
 
+.dc {
+    stroke: yellow;
+}
+
 .SGD {
     fill: black;
 }
@@ -33,6 +37,10 @@
     fill: green;
 }
 
+.Dc {
+    fill: yellow;
+}
+
 circle:hover {
   fill-opacity: .3;
 }
@@ -45,7 +53,7 @@ circle:hover {
 
 // credit to Emilien Dupont
 
-var width = 1920, // 960
+var width = 1800, // 960
     height = 1000, // 500
     nx = parseInt(width / 5), // grid sizes
     ny = parseInt(height / 5),
@@ -132,9 +140,9 @@ function_g.selectAll("path")
 /*
  * Set up buttons
  */
-var draw_bool = {"SGD" : true, "SGDMomentum" : true, "RMSProp" : true, "Adam" : true};
+var draw_bool = {"SGD" : true, "SGDMomentum" : true, "RMSProp" : true, "Adam" : true, "Dc" : true};
 
-var buttons = ["SGD", "SGDMomentum", "RMSProp", "Adam"];
+var buttons = ["SGD", "SGDMomentum", "RMSProp", "Adam", "Dc"];
 
 menu_g.append("rect")
       .attr("x", 0)
@@ -260,6 +268,42 @@ function get_adam_path(x0, y0, learning_rate, num_steps, beta_1, beta_2, eps) {
     return adam_history;
 }
 
+function get_dc_path(x0, y0, learning_rate, num_steps, alpha_1, alpha_2) {
+    var g1_x = 0,
+        g1_y = 0,
+        g2_x = 0,
+        g2_y = 0;
+        gc_x = [0, 0]
+        gc_y = [0, 0]
+        G_x = 0,
+        G_y = 0;
+    var dc_history = [{"x": scale_x.invert(x0), "y": scale_y.invert(y0)}];
+    var x1, y1, gradient;
+    for (i = 0; i < num_steps; i++) {
+        grad1 = grad_f(x0, y0)
+        grad2 = grad_f(x0+1, y0+1)
+        grads = [grad1, grad2]
+        
+        x1 = x0 - learning_rate * (grads[num_steps%2][0]-gc_x[num_steps%2]+G_x)
+        y1 = y0 - learning_rate * (grads[num_steps%2][1]-gc_y[num_steps%2]+G_y)
+        g1_x = (1 - alpha_1) * g1_x + alpha_1 * grad1[0]
+        g1_y = (1 - alpha_1) * g1_y + alpha_1 * grad1[1]
+        g2_x = (1 - alpha_1) * g2_x + alpha_1 * grad2[0]
+        g2_y = (1 - alpha_1) * g2_y + alpha_1 * grad2[1]
+        
+        gc_x = [g1_x, g2_x]
+        gc_y = [g1_y, g2_y]
+        
+        G_x  = G_x - alpa_2 * (gc_x[num_steps%2]- grads[num_steps%2][0])
+        G_y  = G_y - alpa_2 * (gc_y[num_steps%2]- grads[num_steps%2][1])
+        
+        dc_history.push({"x" : scale_x.invert(x1), "y" : scale_y.invert(y1)})
+        x0 = x1
+        y0 = y1
+    }
+    return dc_history;
+}
+
 
 /*
  * Functions necessary for path visualizations
@@ -326,6 +370,10 @@ function minimize(x0,y0) {
     if (draw_bool.Adam) {
         var adam_data = get_adam_path(x0, y0, 1e-2, 100, 0.7, 0.999, 1e-6);
         draw_path(adam_data, "adam");
+    }
+    if (draw_bool.Dc) {
+        var dc_data = get_dc_path(x0, y0, 1e-2, 200, 0.9, 0.1);
+        draw_path(dc_data, "dc");
     }
 }
 
