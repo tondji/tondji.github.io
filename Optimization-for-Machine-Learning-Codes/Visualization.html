@@ -156,7 +156,7 @@ menu_g.selectAll("circle")
       .data(buttons)
       .enter()
       .append("circle")
-      .attr("cx", function(d,i) { return width/4 * (i + 0.25);} )
+      .attr("cx", function(d,i) { return width/5 * (i + 0.25);} )
       .attr("cy", height - 20)
       .attr("r", 10)
       .attr("stroke-width", 0.5)
@@ -170,7 +170,7 @@ menu_g.selectAll("text")
       .data(buttons)
       .enter()
       .append("text")
-      .attr("x", function(d,i) { return width/4 * (i + 0.25) + 18;} )
+      .attr("x", function(d,i) { return width/5 * (i + 0.25) + 18;} )
       .attr("y", height - 14)
       .text(function(d) { return d; })
       .attr("text-anchor", "start")
@@ -193,7 +193,7 @@ function button_press() {
 
 /*
  * Set up optimization/gradient descent functions.
- * SGD, SGDMomentum, RMSProp, Adam.
+ * SGD, SGDMomentum, RMSProp, Adam, Dc.
  */
 
 function get_sgd_path(x0, y0, learning_rate, num_steps) {
