@@ -54,7 +54,7 @@ circle:hover {
 // credit to Emilien Dupont
 
 var width = 1800, // 960
-    height = 1000, // 500
+    height = 800, // 500
     nx = parseInt(width / 5), // grid sizes
     ny = parseInt(height / 5),
     h = 1e-7, // step used when approximating gradients
@@ -272,9 +272,9 @@ function get_dc_path(x0, y0, learning_rate, num_steps, alpha_1, alpha_2) {
     var g1_x = 0,
         g1_y = 0,
         g2_x = 0,
-        g2_y = 0;
-        gc_x = [0, 0]
-        gc_y = [0, 0]
+        g2_y = 0,
+        gc_x = [0, 0],
+        gc_y = [0, 0],
         G_x = 0,
         G_y = 0;
     var dc_history = [{"x": scale_x.invert(x0), "y": scale_y.invert(y0)}];
