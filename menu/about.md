@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Homepage
+title: 
 ---
 
 <td style="width=20%;vertical-align: top;">
@@ -25,6 +25,8 @@ title: Homepage
 	<br>
 </td>
 
+
+##Bio
 I graduated from the African Masters in Machine Intelligence [(AMMI)](http://aims-ammi.com/) hosted by AIMS in patnership with Facebook and Google based in Kigali, Rwanda.
 Before that I graduated from [AIMS- Senegal](https://www.aims-senegal.org/) in February 2018 with a Master degree in Mathematical science where my Master Thesis was on [*Web Recommendation systems for jobs seekers and recruiters*](https://scholar.google.com/citations?user=4vk9lasAAAAJ&hl=en) and it is available on Google scholar.
 I am passionate about Theoretical Deep learning with applications in Visual Recognition, Reinforcement Learning and some stuffs related to Gaussian processes.
