@@ -3,28 +3,6 @@ layout: page
 title: 
 ---
 
-<td style="width=20%;vertical-align: top;">
-
-
-	<br>
-	
-        <p>
-	<img src="/assets/img/lionel.jpg" alt="Smiley face" style="width:100%;" align="left"/> 
-	</p>
-	<br>
-
-	<span style="font-weight:bold">
-		Ml & DL enthusiast
-	</span>
-	<br>
-
-	Python and Maths Lover 
-	<br>
-
-	student @AMMI
-	<br>
-</td>
-
 
 I am currently undergoing the African Masters in Machine Intelligence [(AMMI)](http://aims-ammi.com/) by AIMS in patnership with Facebook and Google based in Kigali, Rwanda.
 Before that I graduated from [AIMS- Senegal](https://www.aims-senegal.org/) in February 2018 with a Master degree in Mathematical science where my Master Thesis was on [*Web Recommendation systems for jobs seekers and recruiters*](https://scholar.google.com/citations?user=4vk9lasAAAAJ&hl=en) and it is available on Google scholar.
