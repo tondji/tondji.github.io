@@ -21,47 +21,9 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           'Welcome to my Blog'
-description:	       'Copyright &copy 2019'
+description:	       'Copyright &copy 2020'
 author:              'Lionel Tondji'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
 #  path: rss-feed.xml
-
-# Site Author
-author:
-  name             : "Yasser Salah Eddine Bouchareb"
-  avatar           : "profile.jpg"
-  bio              : "Currently, I am an AI Resident at Google"
-  location         : "Accra, Ghana"
-  employer         :
-  pubmed           :
-  github           : "BYSD"
-  googlescholar    : "https://scholar.google.ca/citations?user=SbdDnPIAAAAJ&hl=en&authuser=1"
-  email            :
-  researchgate     : #"https://www.researchgate.net/profile/Yasser_Salah_Eddine_Bouchareb"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         : "BYSD10"
-  foursquare       :
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         : "bysd"
-  orcid            : "https://orcid.org/0000-0002-8374-9513"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : "bysd_a"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :

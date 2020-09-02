@@ -1,8 +1,7 @@
 ---
 layout: page
-title: 
+title: Homepage
 ---
-
 
 <td style="width=20%;vertical-align: top;">
 
@@ -10,33 +9,30 @@ title:
 	<br>
 	
         <p>
-	<img src="/assets/img/lionel.jpg" alt="Smiley face" style="width:100%;" align="left"/> 
+	<img src="/assets/img/lionel.jpg" alt="Smiley face" style="width:50%;" align="left"/> 
 	</p>
 	<br>
 
 	<span style="font-weight:bold">
-		Lionel Tondji
+		Ml & DL enthusiast
 	</span>
 	<br>
-	Ml & DL enthusiast
+
+	Python and Maths Lover, knowledge seeker 
 	<br>
 
-	Python and Maths Lover 
-	<br>
-
-	student @AMMI
+	AI Resident at Google
 	<br>
 </td>
 
-
-I am currently undergoing the African Masters in Machine Intelligence [(AMMI)](http://aims-ammi.com/) by AIMS in patnership with Facebook and Google based in Kigali, Rwanda.
+I graduated from the African Masters in Machine Intelligence [(AMMI)](http://aims-ammi.com/) hosted by AIMS in patnership with Facebook and Google based in Kigali, Rwanda.
 Before that I graduated from [AIMS- Senegal](https://www.aims-senegal.org/) in February 2018 with a Master degree in Mathematical science where my Master Thesis was on [*Web Recommendation systems for jobs seekers and recruiters*](https://scholar.google.com/citations?user=4vk9lasAAAAJ&hl=en) and it is available on Google scholar.
 I am passionate about Theoretical Deep learning with applications in Visual Recognition, Reinforcement Learning and some stuffs related to Gaussian processes.
 For more informations about Books on Machine Learning and Deep Learning visit this [learning-resources page](menu/open.md).
 
 
 ## Machine Learning Tutorials
-Very soon , I will be posting some tutorials on machine learning and deep learning for dummies for those who are new in the field. Stay tuned  on my blog. But for now you can have a look at samples of some codes [here](https://github.com/tondji/tondji.github.io/tree/master/Machine-Learning-Codes) that I did for my assignments at AMMI for the first semester. That part is most about Foundations of Machine Learning.
+Here you can find some tutorials on machine learning and deep learning for dummies for those who are new in the field. Stay tuned  on my blog. But for now you can have a look at samples of some codes [here](https://github.com/tondji/tondji.github.io/tree/master/Machine-Learning-Codes) that I did for my assignments at AMMI for the first semester. That part is mostly about Foundations of Machine Learning.
 
 ## Deep Learning Tutorials
 For deep learning Tutorials, you can have a look at sample of my deep learning code that I did for my coursework during the first semester [here](https://github.com/tondji/tondji.github.io/tree/master/Deep-Learning-Codes)
@@ -52,7 +48,7 @@ For kernel methods Tutorials, you can have a look at sample of my code that I di
 Many estimation problems in statistical learning are formulated as optimization problems. These formulations allowed a separation between the analysis of the estimator's performance and the development of problem-solving algorithms. Faced with large volumes of data, such separation is no longer effective and analysis must combine statistics and optimization. In this course, the classic statistical results on M-estimation and convex optimization will be presented in a unified way, showing the links between statistics and optimization. Emphasis will be placed on non-asymptotic analysis of stochastic approximation and stochastic gradient.
 
 Attention, the purpose of this course is to understand how algorithms are analyzed and will therefore be more accessible on the evidence.
-For optimization Tutorials, you can have a look at sample of my code that I did for my coursework during the second semester [here](https://github.com/tondji/tondji.github.io/tree/master/Optimization-for-Machine-Learning-Codes)
+For optimization Tutorials, you can have a look at sample of my code that I did for my coursework during the second semester [here](https://github.com/tondji/tondji.github.io/tree/master/Optimization-for-Machine-Learning-Codes).
 
 ## Probabilistic Graphical Models Tutorials
  This course provides a unifying introduction to probabilistic modelling through the framework of graphical models, together with their associated learning and inference algorithms. 
@@ -73,6 +69,7 @@ For additional information please check:
 * my publications on <a href = "https://scholar.google.com/citations?user=4vk9lasAAAAJ&hl=en">Google scholar</a>
 			
 * some of my commented code on <a href = "https://github.com/tondji/tondji.github.io/">Github</a>
+
 
 
 
